@@ -25,7 +25,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/deepfake-detection.git
+git clone https://github.com/Ommmmi/deepfake-detection.git
 cd deepfake-detection
 
 Install dependencies:
